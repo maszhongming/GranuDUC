@@ -1,5 +1,5 @@
 # GranuDUC
-Dataset for EMNLP 2022 Findings Paper: Unsupervised Multi-Granularity Summarization
+Dataset for EMNLP 2022 Findings Paper: *[Unsupervised Multi-Granularity Summarization](https://arxiv.org/abs/2201.12502)*
 
 GranuDUC includes 50 document clusters, as well as manually annotated summaries of three different semantic coverage for each cluster. Due to the copyright issue of DUC 2004, we only provide our annotated summary here, excluding the source files.
 
